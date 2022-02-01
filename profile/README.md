@@ -18,3 +18,6 @@ Although all the resources provided through EDA² can be used together, that is 
 expected to (re)use only the subset of layers that allows them to reduce the maintenance burden of their codebase, while
 preserving the functionality and UX expected by their user base. In fact, pyEDAA modules are based on Object Oriented
 Programming (OOP) patterns, to allow enhancements through inheritance and overriding.
+
+See [Conceptual Model](https://edaa-org.github.io/ConceptualModel.html)
+and [Frequently Asked Questions (FAQ)](https://edaa-org.github.io/FAQ.html).
